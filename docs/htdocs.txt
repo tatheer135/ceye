@@ -1,0 +1,18 @@
+/
++-- api
+¦	+-- <user>
+¦		+-- preferences
+¦		+-- <repository>
+¦			+-- commits
+¦			¦	+-- <sha>
+¦			¦		+-- images
+¦			¦		¦	+-- 0
+¦			¦		+-- state
+¦			+-- preferences
++-- home
++-- login
++-- preferences
++-- <user>
+	+-- <repository>
+		+-- commits
+			+-- <sha>
