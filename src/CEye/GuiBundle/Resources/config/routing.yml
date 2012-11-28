@@ -1,0 +1,7 @@
+c_eye_gui_homepage:
+    pattern:  /
+    defaults: { _controller: CEyeGuiBundle:Default:index }
+
+login:
+    pattern: /login
+    defaults: { _controller: CEyeGuiBundle:Auth:login }

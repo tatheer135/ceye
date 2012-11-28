@@ -1,0 +1,12 @@
+c_eye_gui:
+    resource: "@CEyeGuiBundle/Resources/config/routing.yml"
+    prefix:   /
+
+c_eye_api:
+    resource: "@CEyeApiBundle/Resources/config/routing.yml"
+    prefix:   /api/
+
+# Internal routing configuration to handle ESI
+#_internal:
+#    resource: "@FrameworkBundle/Resources/config/routing/internal.xml"
+#    prefix:   /_internal

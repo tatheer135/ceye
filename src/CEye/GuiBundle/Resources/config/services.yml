@@ -1,0 +1,7 @@
+parameters:
+#    c_eye_gui.example.class: CEye\GuiBundle\Example
+
+services:
+#    c_eye_gui.example:
+#        class: %c_eye_gui.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

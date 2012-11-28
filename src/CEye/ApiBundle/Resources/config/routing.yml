@@ -1,0 +1,3 @@
+c_eye_api_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: CEyeApiBundle:Default:index }
