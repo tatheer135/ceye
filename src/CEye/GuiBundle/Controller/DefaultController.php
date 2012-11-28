@@ -8,6 +8,6 @@ class DefaultController extends Controller
 {
     public function indexAction()
     {
-        return $this->render('CEyeGuiBundle:Default:index.html.twig', array('name' => "Herp Derp"));
+        return $this->render('CEyeGuiBundle:Default:index.html.twig', array('name' => "Herp Derp", "page_title" => "Welcome!"));
     }
 }
